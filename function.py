@@ -1,10 +1,11 @@
-def wyswietl(d):
-    for s in trening:
-        print("{0}:{1}".format(s, d[s]))
+def show(d):
+    for s in training:
+        print("{0}: {1}".format(s, d[s]))
 
 if __name__=="__main__":
-    trening = {"cwiczenie": "bieganie",
-                "czas": 60,
-                "ilosc": 4,
-                "miejsce": "fitnessacademy"}
-    wyswietl(trening)
+    training = {"workout": "running",
+                "time": 60,
+                "quantity": 4,
+                "place": "fitnessacademy"}
+
+show(training)
