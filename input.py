@@ -13,8 +13,8 @@ while True:
         tab.append(x)
         for s in tab:
             if len(s)>0:
-                ostatnia_litera = s[-1]
-                print (ostatnia_litera)
+                last_character = s[-1]
+                print (last_character)
 
 for z in tab:
     print z
