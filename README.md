@@ -1,29 +1,32 @@
 ## First scripts in Python language
 
+- first.py
+  >*File from first meeting*
+
 - dict.py
 
-  >**
+  >*Print all from dictionary*
 
 - function.py
 
-  >**
+  >*Shows everything from dictionary with function*
 
 - input.py
 
   >*Print the last character and the list of names from the list (usage of input)*
 
-- koty.py
+- cats.py
 
-  >**
+  >*Add cats to the list (usage of input)*
 
-- listy.py
+- list.py
 
     >*Print list of cars (usage of function)*
 
-- listy2.py
+- list2.py
 
     >*Count the cars combustion*
 
-- zamiana.py
+- passwd_change.py
 
-  >**
+  >*Hides the middle of the password (usage of function)*
